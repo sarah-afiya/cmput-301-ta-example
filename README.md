@@ -1,1 +1,1 @@
-# cmput 301 TA example
+# cmput-301-ta-exmple
